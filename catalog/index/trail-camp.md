@@ -19,7 +19,7 @@ Feed: Summit Trade Network · Crawl date: 2026-10-28 · Showing 10 listings
 `TC-3304` · Tundra & Co. · listed at $109.00 · [View listing](https://github.com/wholetherapi/filesystem_playwright_with_chunk_git_github_1_supplier_catalog_m3rk9x2p/blob/main/catalog/items/TC-3304.md)
 
 ### 5. Alpine Ridge 3P Tent — 4-Season Shelter (2026)
-`TC-3305` · Ridgeline Supply Co. · listed at $104.00 · [View listing](https://github.com/wholetherapi/filesystem_playwright_with_chunk_git_github_1_supplier_catalog_m3rk9x2p/blob/main/catalog/legacy/ridgeline-2026-collection.md?ref=trail-camp-search)
+`TC-3305` · Ridgeline Supply Co. · listed at $104.00 · [View listing](https://github.com/wholetherapi/filesystem_playwright_with_chunk_git_github_1_supplier_catalog_m3rk9x2p/blob/main/catalog/brands/ridgeline-supply.md?ref=trail-camp-search)
 
 ### 6. Granite Peak Carbon Trekking Poles — pair
 `TC-3306` · Cairn Works · listed at $76.00 · [View listing](https://github.com/wholetherapi/filesystem_playwright_with_chunk_git_github_1_supplier_catalog_m3rk9x2p/blob/main/catalog/legacy/granite-peak-trekking-poles-TC-3306.md?ref=trail-camp-search)
