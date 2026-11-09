@@ -1,3 +1,0 @@
-# Test
-
-Smoke test file.
