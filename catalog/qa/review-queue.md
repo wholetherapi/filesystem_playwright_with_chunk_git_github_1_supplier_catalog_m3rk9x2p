@@ -7,6 +7,3 @@ Open merchandising holds raised by the QA desk. An entry stays open only while i
 | Q-104 | TC-3302 | TODO: confirm buckle supplier lead time | 2026-09-14 |
 | Q-105 | TC-3306 | TODO(ops_priya): verify batch PSI report before the alpine drop | 2026-09-18 |
 | Q-106 | TC-3308 | TODO(buyer_ingrid): confirm reflective trim spec | 2026-10-02 |
-| Q-107 | TC-3304 | TODO(buyer_luis): confirm shipping consolidation with vendor | 2026-10-03 |
-| Q-108 | TC-3303 | TODO(discovery): add second product photo | 2026-08-21 |
-| Q-109 | TC-3301 | TODO(buyer_ingrid): verify burner stability in wind tunnel | 2026-08-30 |
